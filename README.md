@@ -1,2 +1,2 @@
 # Clock_javascript
-Its javascrip project on Clock functioning.
+Its javascript project on Clock functioning.
